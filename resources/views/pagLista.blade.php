@@ -1,7 +1,7 @@
 @extends('pagPlantilla')
 
 @section('titulo')
-  <h1 class="display-4">Pagina Lista - Alex Acsara</h1>
+  <h1 class="display-4">Pagina Lista</h1>
 @endsection
 
 @section('seccion')
@@ -63,9 +63,9 @@
   <table class="table">
     <thead>
       <tr class="table-dark">
-        <th scope="col">#</th>
-        <th scope="col">First</th>
-        <th scope="col">Last</th>
+        <th scope="col">Id</th>
+        <th scope="col">Codigo</th>
+        <th scope="col">Apellido y nombres</th>
         <th scope="col">Handle</th>
       </tr>
     </thead>

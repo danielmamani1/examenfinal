@@ -90,7 +90,7 @@
   <table class="table">
     <thead>
       <tr class="table-dark">
-        <th scope="col">#</th>
+        <th scope="col">Id</th>
         <th scope="col">Codigo</th>
         <th scope="col">Oficio actual</th>
         <th scope="col">Edición</th>
